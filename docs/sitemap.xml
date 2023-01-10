@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://github.com/thasocheat/blog-with-hugo/posts/first-post/</loc>
+    <lastmod>2023-01-10T10:55:33+07:00</lastmod>
+  </url><url>
+    <loc>https://github.com/thasocheat/blog-with-hugo/</loc>
+    <lastmod>2023-01-10T10:55:33+07:00</lastmod>
+  </url><url>
+    <loc>https://github.com/thasocheat/blog-with-hugo/posts/</loc>
+    <lastmod>2023-01-10T10:55:33+07:00</lastmod>
+  </url><url>
+    <loc>https://github.com/thasocheat/blog-with-hugo/tags/</loc>
+    <lastmod>2023-01-10T10:55:33+07:00</lastmod>
+  </url><url>
+    <loc>https://github.com/thasocheat/blog-with-hugo/tags/untagged/</loc>
+    <lastmod>2023-01-10T10:55:33+07:00</lastmod>
+  </url><url>
+    <loc>https://github.com/thasocheat/blog-with-hugo/blog/</loc>
+  </url><url>
+    <loc>https://github.com/thasocheat/blog-with-hugo/series/</loc>
+  </url>
+</urlset>
